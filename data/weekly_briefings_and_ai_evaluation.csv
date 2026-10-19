@@ -1,0 +1,61 @@
+week_start,status,attempts,summary
+2020-11-09,fallback,3,"Headline: Session conversion rate was 1.51% this week.
+- Session conversion rate: 1.0% -> 1.51% (+0.51 percentage points).
+- Revenue: $21,820 -> $23,624 (+8.3%).
+- Sessions: 24,996 -> 22,519 (-9.9%).
+Watch: See the dashboard for step-level detail."
+2020-11-16,passed,1,"Headline: Revenue and sessions rose while conversion rate saw a slight decline.
+- Revenue grew by 61.5% to $38,156.
+- Sessions increased by 15.1% to 25,923.
+- Session conversion rate decreased by 0.06 percentage points, 1.51% -> 1.45%.
+Watch: Monitor whether the session conversion rate stabilizes as sessions continue to grow."
+2020-11-23,passed,1,"Headline: Revenue experienced unusual growth this week during the Thanksgiving / Black Friday week.
+- Revenue was up 25.5% to $47,897.
+- Payment-to-purchase rate was unusually up 4.9 percentage points, 66.7% -> 71.6%.
+- Session conversion rate was up 0.4 percentage points, 1.45% -> 1.85%.
+Watch: Changes coincide with Thanksgiving / Black Friday week."
+2020-11-30,passed,1,"Headline: Sessions saw unusual movement as the week's results came in during Cyber Monday week.
+- Sessions were up 11.9%, 27,788 -> 31,098, which is unusual.
+- Revenue dropped 10.3%, $47,897 -> $42,948.
+- Session conversion rate increased by 0.05 percentage points, 1.85% -> 1.9%.
+Watch: Revenue per order decreased by 22.0%, $93.18 -> $72.67, while these changes coincide with Cyber Monday week."
+2020-12-07,passed,2,"Headline: Revenue and sessions showed unusual growth this week.
+- Revenue was up 39.4% to $59,865.
+- Sessions were up 24.6% to 38,739.
+- Checkout-to-payment rate increased by 5.6 percentage points, 58.3% -> 63.9%.
+Watch: Monitor checkout-to-payment rate and payment-to-purchase rate to see if these unusual gains continue."
+2020-12-14,passed,1,"Headline: View-to-checkout rate showed unusual movement alongside declines in total sessions and revenue.
+- View-to-checkout rate decreased by 5.0 percentage points, 19.3% -> 14.3%, flagged as unusual.
+- Checkout-to-payment rate increased by 10.3 percentage points, 63.9% -> 74.2%, flagged as unusual.
+- Revenue decreased by 21.0% to $47,302, while sessions fell 13.7% to 33,419.
+Watch: Session conversion rate moved down 0.34 percentage points, 1.99% -> 1.65%."
+2020-12-21,passed,1,"Headline: Key performance metrics saw notable declines during Christmas week (after typical gift-shipping cutoffs).
+- Revenue dropped 68.9% to $14,716, coinciding with Christmas week (after typical gift-shipping cutoffs).
+- Sessions decreased 33.9% to 22,094, coinciding with Christmas week (after typical gift-shipping cutoffs).
+- Session conversion rate decreased by 0.6 percentage points, 1.65% -> 1.05%, coinciding with Christmas week (after typical gift-shipping cutoffs).
+Watch: Revenue per order fell 26.6% to $63.16."
+2020-12-28,passed,1,"Headline: Session conversion rate showed unusual movement alongside lower weekly revenue.
+- Session conversion rate was down 0.38 percentage points, 1.05% -> 0.67%, and flagged as unusual.
+- Revenue decreased by 30.2% to $10,267.
+- Sessions decreased by 7.5% to 20,446.
+Watch: These trends coincide with the New Year week (post-holiday period) calendar context."
+2021-01-04,passed,1,"Headline: Revenue decreased while sessions rose over the week.
+- Revenue moved down 7.8% to $9,465.
+- Sessions moved up 42.0% to 29,035.
+- Session conversion rate shifted down 0.11 percentage points, 0.67% -> 0.56%.
+Watch: Monitor how traffic and conversion rates trend moving forward."
+2021-01-11,passed,1,"Headline: Revenue and conversion rates increased overall despite a slight decline in sessions.
+- Revenue increased 39.3% to $13,188.
+- Session conversion rate rose up 0.26 percentage points, 0.56% -> 0.82%.
+- Sessions decreased 4.6% to 27,712.
+Watch: Monitor payment-to-purchase rate which dropped to 69.1%."
+2021-01-18,passed,1,"Headline: Revenue and session conversion rate showed unusual growth this week.
+- Revenue increased 101.7% to $26,598.
+- Session conversion rate increased by 0.54 percentage points, 0.82% -> 1.36%.
+- Revenue per order increased 23.0% to $71.12.
+Watch: Monitor sessions, which decreased 0.8% to 27,484."
+2021-01-25,passed,2,"Headline: Revenue tracking may be incomplete this week as revenue per order is $17.78 compared to the typical $73.81 while order volume looks normal.
+- Revenue per order is down 75.0%, $71.12 -> $17.78
+- Revenue is down 79.1%, $26,598 -> $5,546
+- Session conversion rate is down 0.18 percentage points, 1.36% -> 1.18%
+Watch: Monitor tracking tags and data feeds for potential issues affecting order values."
