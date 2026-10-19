@@ -2,7 +2,7 @@
 
 **Live dashboard:** [Looker Studio](https://datastudio.google.com/reporting/3fbea5f8-3f9b-46e5-8049-f2b38182124d)
 **Data:** Google Merchandise Store GA4 sample (`bigquery-public-data.ga4_obfuscated_sample_ecommerce`), 1 Nov 2020 – 31 Jan 2021
-![Dashboard](images/dashboard_page1.png)
+![Dashboard]
 
 **Stack:** BigQuery SQL · Python (pandas, scikit-learn, XGBoost) · Looker Studio · Google Sheets · Gemini API
 
